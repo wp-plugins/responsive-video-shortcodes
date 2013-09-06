@@ -9,7 +9,7 @@ Author:            Felix Arntz
 Donate link:       http://www.leaves-and-love.net/responsive-video-shortcodes/
 Requires at least: 2.9 
 Tested up to:      3.6
-Stable tag:        1.15
+Stable tag:        1.16
 Version:           1.16
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
