@@ -10,7 +10,7 @@ Donate link:       http://www.leaves-and-love.net/responsive-video-shortcodes/
 Requires at least: 2.9 
 Tested up to:      3.6
 Stable tag:        1.15
-Version:           1.15
+Version:           1.16
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -66,6 +66,9 @@ Maybe you entered them the wrong way. Please give only ONE VIDEO URL per line, a
 3. screenshot-3.png
 
 == Changelog ==
+
+= 1.16 =
+* Readme updated
 
 = 1.15 =
 * Three more Aspect-ratios (3:2, 3:1, 5:6) added
