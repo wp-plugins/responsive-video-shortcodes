@@ -74,15 +74,6 @@ Maybe you entered them the wrong way. Please give only ONE VIDEO URL per line, a
 * Plugin is now fully object-oriented
 * Widget security improved
 
-= 1.16 =
-* Readme updated
-
-= 1.15 =
-* Three more Aspect-ratios (3:2, 3:1, 5:6) added
-* Autoplay Functionality added for all providers supporting this
-* POT File for Translations added
-* German Translation added
-
 = 1.1 =
 * Widget for Responsive Video List added
 * Plugin now translation-ready
