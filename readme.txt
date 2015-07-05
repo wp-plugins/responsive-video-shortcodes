@@ -9,8 +9,8 @@ Donate link:       http://leaves-and-love.net/wordpress-plugins/
 Contributors:      flixos90
 Requires at least: 3.2 
 Tested up to:      4.2
-Stable tag:        1.2.3
-Version:           1.2.3
+Stable tag:        1.2.4
+Version:           1.2.4
 License:           GPL v3 
 License URI:       http://www.gnu.org/licenses/gpl-3.0
 
@@ -32,6 +32,7 @@ You can furthermore use the plugin to display even non-video media in a responsi
 * 3:2 (for some images)
 * 3:1 (recommended to use with single audio tracks)
 * 5:6 (recommended to use with audio playlists)
+* 1:1 (for square images or tweets with images)
 
 = Autoplay functionality =
 
@@ -68,6 +69,10 @@ Maybe you entered them the wrong way. Please give only ONE VIDEO URL per line, a
 3. Widget Example
 
 == Changelog ==
+
+= 1.2.4 =
+* Added new aspect ratio 1:1
+* Fixed a CSS bug by applying !important to the embed properties
 
 = 1.2.3 =
 * Includes Spanish translation (credit to Andrew Kurtis <andrewk@webhostinghub.com>)
